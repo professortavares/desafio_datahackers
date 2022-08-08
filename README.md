@@ -1,6 +1,8 @@
 # Desafio Data Hackers / State of Brazil 2021
 Repositório para o código-fonte do dashboard do desafio datahackers
 
+Acesso o dashboard [aqui](https://datahackerschallenge.herokuapp.com/)
+
 ![screenshot](./screenshot.png)
 
 ## Instalação:
