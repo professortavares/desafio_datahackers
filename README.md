@@ -1,5 +1,7 @@
-# desafio_datahackers
+# Desafio Data Hackers / State of Brazil 2021
 Repositório para o código-fonte do dashboard do desafio datahackers
+
+![screenshot](./screenshot.png)
 
 ## Instalação:
 
@@ -32,3 +34,16 @@ Para atualizar as dependências (caso queira adicionar um pacote):
 ```
 pip install --upgrade --force-reinstall -r requirements.txt
 ```
+
+## Execução
+
+Na pasta raiz do projeto, execute o seguinte comando:
+
+```
+$ streamlit run ./app/dash.py
+```
+
+
+## Dados
+
+O notebook responsável pela geração dos dados está disponível no [kaggle]().
