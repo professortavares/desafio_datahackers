@@ -48,4 +48,4 @@ $ streamlit run ./app/dash.py
 
 ## Dados
 
-O notebook responsável pela geração dos dados está disponível no [kaggle]().
+O notebook responsável pela geração dos dados está disponível no [kaggle](https://www.kaggle.com/code/leodaniel/dashboard-data-preparation).
