@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# environment folders
+datahackers_env/
+
+# data files
+*.pickle
+*.parquet
